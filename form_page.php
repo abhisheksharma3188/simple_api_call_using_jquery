@@ -41,7 +41,7 @@
                 });
                 return false;
             });
-            /////////////////////////////////// Form ajax submission code below ////////////////////////////////////   
+            /////////////////////////////////// Form ajax submission code above ////////////////////////////////////   
         </script>
     </body>
 </html>
